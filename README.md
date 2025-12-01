@@ -1,4 +1,3 @@
-README – Campo Minado (versão console) 
 Como compilar 
 Esse jogo foi feito em C. 
 • Tabuleiro 8x8 
@@ -7,6 +6,6 @@ Esse jogo foi feito em C.
 • Se abrir bomba: Game Over 
 • Se abrir tudo que é seguro: Você venceu 
 • Números mostram quantas bombas existem ao redor 
-• Não tem bandeirinha 
+• Para a bandeira use f antes da linha e coluna 
 • Abrir zero abre área ao redor (se implementado) 
 
